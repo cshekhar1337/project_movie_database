@@ -2,6 +2,7 @@
 
 This python program generates a webpage which list most popular movies. Each movie has its own thumbnail which contains the movie poster. If you click the movie thumbnail. A popout opens up that has the movie trailer.
 
+
 ## Steps for installation and running
 #### Software pre-requirements: python 2.7 and  git
 1. Go to the desired folder where you want to copy this project
